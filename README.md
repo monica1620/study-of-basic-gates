@@ -1,4 +1,4 @@
-### study-of-basic-gates
+<img width="776" height="703" alt="image" src="https://github.com/user-attachments/assets/cd3fb149-9a01-4e31-b333-65ac752a4756" />### study-of-basic-gates
 
 **AIM:** 
 
@@ -81,7 +81,7 @@ endmodule
  Developed by: RegisterNumber: 25010138
  
 **Logic symbol & Truthtable**
-![WhatsApp Image 2025-11-17 at 1 20 39 PM](https://github.com/user-attachments/assets/2afed58b-b068-46c0-9737-3dc3920c58e2)
+<img width="776" height="703" alt="Screenshot 2025-11-17 132705" src="https://github.com/user-attachments/assets/8ca052b3-2751-496d-890c-9d6ceaf32e88" />
 
 
 **RTL realization Output:** 
